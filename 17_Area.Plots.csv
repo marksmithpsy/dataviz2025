@@ -1,0 +1,154 @@
+Position,Player,Week,Points
+QB,L Jackson,Week.01,25.12
+WR,J Chase,Week.01,9.2
+WR,J Jefferson,Week.01,13.9
+RB,S Barkley,Week.01,32.2
+RB,J Gibbs,Week.01,15.4
+TE,B Bowers,Week.01,8.8
+FLX,D Henry,Week.01,10.6
+K,B Aubrey,Week.01,22.3
+DEF,Denver,Week.01,10
+QB,L Jackson,Week.02,16.38
+WR,J Chase,Week.02,5.5
+WR,J Jefferson,Week.02,21.3
+RB,S Barkley,Week.02,15.6
+RB,J Gibbs,Week.02,14.1
+TE,B Bowers,Week.02,14.3
+Fx,D Henry,Week.02,16.1
+K,B Aubrey,Week.02,18.8
+DEF,Denver,Week.02,6
+QB,L Jackson,Week.03,25.98
+WR,J Chase,Week.03,26.8
+WR,J Jefferson,Week.03,17.1
+RB,S Barkley,Week.03,31.6
+RB,J Gibbs,Week.03,16.3
+TE,B Bowers,Week.03,5.6
+Fx,D Henry,Week.03,29.9
+K,B Aubrey,Week.03,12.6
+DEF,Denver,Week.03,15
+QB,L Jackson,Week.04,23.64
+WR,J Chase,Week.04,16
+WR,J Jefferson,Week.04,17.5
+RB,S Barkley,Week.04,12.6
+RB,J Gibbs,Week.04,19.8
+TE,B Bowers,Week.04,4.1
+Fx,D Henry,Week.04,34.4
+K,B Aubrey,Week.04,12
+DEF,Denver,Week.04,11
+QB,L Jackson,Week.05,33.42
+WR,J Chase,Week.05,36.3
+WR,J Jefferson,Week.05,12.2
+RB,S Barkley,Week.05,0
+RB,J Gibbs,Week.05,0
+TE,B Bowers,Week.05,19.7
+Fx,D Henry,Week.05,16.1
+K,B Aubrey,Week.05,10.8
+DEF,Denver,Week.05,16
+QB,L Jackson,Week.06,18.92
+WR,J Chase,Week.06,9.7
+WR,J Jefferson,Week.06,0
+RB,S Barkley,Week.06,6.4
+RB,J Gibbs,Week.06,10.6
+TE,B Bowers,Week.06,11.6
+Fx,D Henry,Week.06,25.2
+K,B Aubrey,Week.06,13.1
+DEF,Denver,Week.06,3
+QB,L Jackson,Week.07,34.44
+WR,J Chase,Week.07,15.1
+WR,J Jefferson,Week.07,17.9
+RB,S Barkley,Week.07,25.7
+RB,J Gibbs,Week.07,30
+TE,B Bowers,Week.07,14.3
+Fx,D Henry,Week.07,24.7
+K,B Aubrey,Week.07,0
+DEF,Denver,Week.07,20
+QB,L Jackson,Week.08,24.16
+WR,J Chase,Week.08,15.9
+WR,J Jefferson,Week.08,15.5
+RB,S Barkley,Week.08,11.6
+RB,J Gibbs,Week.08,19.8
+TE,B Bowers,Week.08,8.3
+Fx,D Henry,Week.08,14.2
+K,B Aubrey,Week.08,5.9
+DEF,Denver,Week.08,7
+QB,L Jackson,Week.09,23.6
+WR,J Chase,Week.09,7.8
+WR,J Jefferson,Week.09,18.08
+RB,S Barkley,Week.09,31.4
+RB,J Gibbs,Week.09,14.1
+TE,B Bowers,Week.09,13
+Fx,D Henry,Week.09,25.8
+K,B Aubrey,Week.09,10.1
+DEF,Denver,Week.09,0
+QB,L Jackson,Week.10,32.9
+WR,J Chase,Week.10,49.9
+WR,J Jefferson,Week.10,7.3
+RB,S Barkley,Week.10,8.3
+RB,J Gibbs,Week.10,11.8
+RB,B Bowers,Week.10,0
+Fx,D Henry,Week.10,13.6
+K,B Aubrey,Week.10,6.9
+DEF,Denver,Week.10,5
+QB,L Jackson,Week.11,14.88
+WR,J Chase,Week.11,23
+WR,J Jefferson,Week.11,11.1
+RB,S Barkley,Week.11,32.8
+RB,J Gibbs,Week.11,18.8
+TE,B Bowers,Week.11,24.8
+Fx,D Henry,Week.11,10.5
+K,B Aubrey,Week.11,6.3
+DEF,Denver,Week.11,13
+QB,L Jackson,Week.12,22.58
+WR,J Chase,Week.12,0
+WR,J Jefferson,Week.12,3.7
+RB,S Barkley,Week.12,44.2
+RB,J Gibbs,Week.12,23.4
+TE,B Bowers,Week.12,5.8
+Fx,D Henry,Week.12,14
+K,B Aubrey,Week.12,13.4
+DEF,Denver,Week.12,10
+QB,L Jackson,Week.13,25.38
+WR,J Chase,Week.13,17.6
+WR,J Jefferson,Week.13,13.4
+RB,S Barkley,Week.13,18.7
+RB,J Gibbs,Week.13,9.4
+TE,B Bowers,Week.13,25.2
+Fx,D Henry,Week.13,12.6
+K,B Aubrey,Week.13,8.6
+DEF,Denver,Week.13,20
+QB,L Jackson,Week.14,0
+WR,J Chase,Week.14,38.1
+WR,J Jefferson,Week.14,28.7
+RB,S Barkley,Week.14,14.4
+RB,J Gibbs,Week.14,16.3
+TE,B Bowers,Week.14,6.7
+Fx,D Henry,Week.14,0
+K,B Aubrey,Week.14,10.2
+DEF,Denver,Week.14,0
+QB,L Jackson,Week.15,36.1
+WR,J Chase,Week.15,13.9
+WR,J Jefferson,Week.15,16.8
+RB,S Barkley,Week.15,8.4
+RB,J Gibbs,Week.15,25.9
+TE,B Bowers,Week.15,5
+Fx,D Henry,Week.15,6.7
+K,B Aubrey,Week.15,16.8
+DEF,Denver,Week.15,20
+QB,L Jackson,Week.16,20.48
+WR,J Chase,Week.16,19.4
+WR,J Jefferson,Week.16,31.4
+RB,S Barkley,Week.16,27
+RB,J Gibbs,Week.16,23.4
+TE,B Bowers,Week.16,15.4
+Fx,D Henry,Week.16,19.9
+K,B Aubrey,Week.16,23.8
+DEF,Denver,Week.16,3
+QB,L Jackson,Week.17,29.42
+WR,J Chase,Week.17,14.7
+WR,J Jefferson,Week.17,13.2
+RB,S Barkley,Week.17,17.9
+RB,J Gibbs,Week.17,24.3
+TE,B Bowers,Week.17,11.1
+Fx,D Henry,Week.17,23.5
+K,B Aubrey,Week.17,1
+DEF,Denver,Week.17,8
